@@ -15,7 +15,7 @@
 - Analyzed £8.66M revenue across 4,293 customers
 - Built automated data pipeline with dbt
 - Created executive-ready dashboards
-- **[View Project →](https://github.com/bergerache/ecommerce-business-intelligence)**
+- **[View Project →](https://github.com/bergerache/ecommerce-analytics)**
 
 ### 🏥 Healthcare Analytics Suite  
 **ML-Powered Healthcare Insights** | Python + Scikit-learn
