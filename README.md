@@ -31,7 +31,7 @@
 - Telecom-plan-profitability-research 
 - **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Abusiness-intelligence)**
 
-- #### [View All Projects →](https://github.com/bergerache?tab=repositories)
+- #### [View All Projects →](https://github.com/bergerache?tab=repositories&q=&type=&language=&sort=stargazers)
 
 ## 📈 Current Focus
 Expanding into **data orchestration** and exploring additional 
