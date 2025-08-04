@@ -17,13 +17,13 @@
 - Created executive-ready dashboards
 - **[View Project →](https://github.com/bergerache/ecommerce-analytics)**
 
-### 🏥 Healthcare Analytics Suite  
+### 🏥 Healthcare Analytics 
 **ML-Powered Healthcare Insights** | Python + Scikit-learn
 - Medical appointment no-show predictor (85.3% accuracy)
 - Micronutrients health dashboard (Tableau)
 - **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Ahealthcare-analytics)**
 
-### 📊 Business Intelligence Portfolio
+### 📊 Business Intelligence 
 **Market & Customer Analytics** | Python + SQL + Tableau
 - Gaming market trend analysis ($180B+ industry insights)
 - Telecom churn prediction (>85% accuracy)
