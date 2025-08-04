@@ -1,6 +1,6 @@
 # 👋 Data Analyst & Analytics Engineer
 
-**Transforming complex data into actionable business insights**
+**Data Stories That Make Sense - and Make Impact**
 
 ## 🎯 Expertise
 - **Analytics Engineering:** dbt, BigQuery, Data Warehousing
@@ -21,13 +21,15 @@
 **ML-Powered Healthcare Insights** | Python + Scikit-learn
 - Medical appointment no-show predictor (85.3% accuracy)
 - Micronutrients health dashboard (Tableau)
-- **[View Projects →](https://github.com/bergerache/Appointment_NoShow)**
+- **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Ahealthcare-analytics)**
 
 ### 📊 Business Intelligence Portfolio
 **Market & Customer Analytics** | Python + SQL + Tableau
 - Gaming market trend analysis ($180B+ industry insights)
 - Telecom churn prediction (>85% accuracy)
 - Automotive price modeling
+- **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Abusiness-intelligence)**
+
 - **[View All Projects →](https://github.com/bergerache?tab=repositories)**
 
 ## 📈 Current Focus
