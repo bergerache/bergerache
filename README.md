@@ -18,19 +18,20 @@
 - **[View Project →](https://github.com/bergerache/ecommerce-analytics)**
 
 ### 🏥 Healthcare Analytics 
-**ML-Powered Healthcare Insights** | Python + Scikit-learn
+**ML-Powered Healthcare Insights** | Python + Scikit-learn + Tableau
 - Medical appointment no-show predictor (85.3% accuracy)
 - Micronutrients health dashboard (Tableau)
 - **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Ahealthcare-analytics)**
 
 ### 📊 Business Intelligence 
-**Market & Customer Analytics** | Python + SQL + Tableau
+**Market & Customer Analytics** | Python + SQL + Matplolib + Seaborn
 - Gaming market trend analysis ($180B+ industry insights)
 - Telecom churn prediction (>85% accuracy)
 - Automotive price modeling
+- Telecom-plan-profitability-research 
 - **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Abusiness-intelligence)**
 
-- **[View All Projects →](https://github.com/bergerache?tab=repositories)**
+- #### [View All Projects →](https://github.com/bergerache?tab=repositories)
 
 ## 📈 Current Focus
 Expanding into **data orchestration** and exploring additional 
