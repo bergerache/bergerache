@@ -1,45 +1,41 @@
-# 👋 Data Analyst & Analytics Engineer
+# 👋 Data Analyst - Customer Analytics | Power BI • SQL • Python
 
-**Data Stories That Make Sense - and Make Impact**
+**Turning customer data into retention strategies and revenue insights**
 
-## 🎯 Expertise
-- **Analytics Engineering:** dbt, BigQuery, Data Warehousing
-- **Machine Learning:** Predictive Modeling, Classification, Regression  
-- **Data Visualization:** Tableau, Looker Studio, Interactive Dashboards
-- **Business Analytics:** Market Research, Customer Analytics, Churn Prediction
+## 🎯 Specialisation
 
-## 🚀 Featured Projects
+Customer lifetime value analysis, retention modelling, credit risk assessment, and cohort analytics for financial services.
 
-### 🛍️ E-Commerce Business Intelligence Platform
-**End-to-End Analytics Solution** | dbt + BigQuery + Looker Studio
-- Analyzed £8.66M revenue across 4,293 customers
-- Built automated data pipeline with dbt
-- Created executive-ready dashboards
-- **[View Project →](https://github.com/bergerache/ecommerce-analytics)**
+## 🛠️ Core Stack
 
-### 🏥 Healthcare Analytics 
-**ML-Powered Healthcare Insights** | Python + Scikit-learn + Tableau
-- Medical appointment no-show predictor (85.3% accuracy)
-- Micronutrients health dashboard (Tableau)
-- **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Ahealthcare-analytics)**
+| Analytics | Engineering | Domain |
+|-----------|-------------|--------|
+| Power BI (DAX) | SQL (Window Functions, CTEs) | Credit Risk |
+| Tableau | dbt + BigQuery | Customer Analytics |
+| Looker Studio | Python (pandas, scikit-learn) | Churn Prediction |
 
-### 📊 Business Intelligence 
-**Market & Customer Analytics** | Python + SQL + Matplolib + Seaborn
-- Gaming market trend analysis ($180B+ industry insights)
-- Telecom churn prediction (>85% accuracy)
-- Automotive price modeling
-- Telecom-plan-profitability-research 
-- **[View Projects →](https://github.com/bergerache?tab=repositories&q=topic%3Abusiness-intelligence)**
+## 📌 Featured Projects
 
-- #### [View All Projects →](https://github.com/bergerache?tab=repositories&q=&type=&language=&sort=stargazers)
+### 💳 [Credit Payment Analytics](https://github.com/bergerache/credit-payment-analytics)
+**dbt + BigQuery** — 5-tier customer scoring system for credit risk assessment, identifying profitable customers using payment behaviour analysis.
 
-## 📈 Current Focus
-Expanding into **data orchestration** and exploring additional 
-**cloud warehousing platforms** to strengthen end-to-end pipeline capabilities.
+### 📊 [Customer Loyalty Analytics](https://github.com/bergerache/powerbi-customer-loyalty-analytics)
+**Power BI + DAX** — CLV analysis, retention cohorts, and promotional effectiveness with £8,047 vs £7,435 CLV comparison and time-bias correction methodology.
+
+### 🗃️ [SQL Operations Analytics](https://github.com/bergerache/sql-baseball-operations-analytics)
+**MySQL** — Window functions, CTEs, cumulative calculations, and trend analysis demonstrating financial services SQL patterns.
+
+### 📉 [Churn Prediction Model](https://github.com/bergerache/Telecom_churn_predictor)
+**Python + Scikit-learn** — 79% F1-score Gradient Boosting model with direct applications to deposit account and credit card attrition.
+
+### 🛒 [E-Commerce BI Platform](https://github.com/bergerache/ecommerce-analytics)
+**dbt + BigQuery + Looker Studio** — £8.66M revenue analysis with RFM segmentation across 4,293 customers.
+
+## 🔍 Currently Seeking
+
+Mid-level Data Analyst roles in **UK banking and fintech** where I can apply customer analytics expertise to drive commercial decisions.
 
 ## 📫 Let's Connect
-- **LinkedIn:** [https://www.linkedin.com/in/rachel-berger-data/]
-- **Email:** [bergerache@gmail.com]
 
----
-*"Data tells stories. I help businesses listen."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachel--berger--data-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachel-berger-data/)
+[![Email](https://img.shields.io/badge/Email-bergerache%40gmail.com-red?style=flat&logo=gmail)](mailto:bergerache@gmail.com)
